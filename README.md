@@ -1,1 +1,1 @@
-Laravel API
+Laravel API- Registration, Login and Forgot Password
